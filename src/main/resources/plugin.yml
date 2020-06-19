@@ -1,0 +1,9 @@
+name: NGVexJournal
+version: ${project.version}
+main: com.nightgovery.ngvexjournal.NGVexJournal
+authors: [NightGovery]
+depend: [VexView, BetonQuest]
+softdepend: [GPS, PlaceholderAPI]
+
+commands:
+  vj:

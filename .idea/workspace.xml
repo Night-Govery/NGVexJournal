@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="18680971-364c-43c4-a6d3-fe81ed66d821" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a1juW3dE27zE8FB4hC4M3lt0pW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RunManager">
+    <configuration name="NGVexJournal build" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18680971-364c-43c4-a6d3-fe81ed66d821" name="Default Changelist" comment="" />
+      <created>1585910216273</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585910216273</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="563" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1585967113312">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="563" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1585967113312" />
+    <state x="449" y="147" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1591884310132">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="147" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1591884310132" />
+    <state x="544" y="153" key="FileChooserDialogImpl" timestamp="1589275969446">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="544" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1589275969446" />
+    <state width="1493" height="90" key="GridCell.Tab.0.bottom" timestamp="1591885884781">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="90" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591885884781" />
+    <state width="1493" height="90" key="GridCell.Tab.0.center" timestamp="1591885884781">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="90" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591885884781" />
+    <state width="1493" height="90" key="GridCell.Tab.0.left" timestamp="1591885884781">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="90" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591885884781" />
+    <state width="1493" height="90" key="GridCell.Tab.0.right" timestamp="1591885884781">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="90" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591885884781" />
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1586223644564">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1586223644564" />
+    <state x="408" y="110" key="NewModule_or_Project.wizard" timestamp="1589275987473">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="408" y="110" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1589275987473" />
+    <state x="270" y="54" key="SettingsEditor" timestamp="1585910724004">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585910724004" />
+    <state x="178" y="82" key="new project wizard" timestamp="1586399851527">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="82" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1586399851527" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1585967567963">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1585967567963" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>jar://$MAVEN_REPOSITORY$/org/bukkit/bukkit/1.12.2-R0.1-SNAPSHOT/bukkit-1.12.2-R0.1-20180712.012114-155-sources.jar!/org/bukkit/plugin/java/JavaPlugin.java</url>
+          <line>42</line>
+          <properties field="isEnabled" class="org.bukkit.plugin.java.JavaPlugin" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
